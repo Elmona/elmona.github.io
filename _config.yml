@@ -26,6 +26,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Elmona
 linkedin_username: emil-larsson-2591a4152
 
+disqus:
+  shortname: elmona
+
 # Build settings
 markdown: kramdown
 theme: minima
