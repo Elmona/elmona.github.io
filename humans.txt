@@ -1,0 +1,11 @@
+
+/* TEAM */
+	Emil Larsson
+	elmona.github.io
+	https://www.github.com/elmona
+
+/* SITE */
+	Last update: 2017/11/09
+	Standards: HTML5, CSS3
+	Components: Jekyll, scss
+  Software: Visual Studio Code
