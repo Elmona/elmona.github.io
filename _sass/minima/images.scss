@@ -1,6 +1,11 @@
 .logoImg {
-  width: 45px;
-  border-radius: 18px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
   float: left;
+  background-color: rgb(224, 224, 224);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  &:hover {
+    transform: scale3d(0.95,0.95,1);
+  }
 }
